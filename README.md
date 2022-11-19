@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veebch
-- #veeb on irc.libera.chat
+- sometimes at #veeb on irc.libera.chat
 
 <!---
 veebch/veebch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
