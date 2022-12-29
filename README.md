@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @veebch
+👋 Hi, @veebch here. This is the place that we share code for some of the things we've made. Questions/ suggestions/ code contributions ecouraged.
+
 - sometimes at #veeb on irc.libera.chat
 
 <!---
