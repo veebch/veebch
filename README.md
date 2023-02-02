@@ -1,8 +1,10 @@
 👋 Hi, @veebch here. This is the place that we share code for some of the things we've made. Questions/ suggestions/ code contributions ecouraged.
 
-sometimes at:
-- #veeb on irc.libera.chat
+Other stuff at:
+
+- [YouTube](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 - <a rel="nofollow" href="https://fosstodon.org/@veeb">Mastodon</a>
+- #veeb on irc.libera.chat
 
 <!---
 veebch/veebch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
