@@ -3,7 +3,7 @@
 Other stuff at:
 
 - [YouTube](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
-- <a rel="nofollow" href="https://fosstodon.org/@veeb">Mastodon</a>
+- <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>
 - #veeb on irc.libera.chat
 
 <!---
