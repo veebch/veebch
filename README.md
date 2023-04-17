@@ -6,7 +6,7 @@ Notable bits of our digital footprint:
 - [veeb.ch](https://veeb.ch/notes)
 - <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>
 - [Instagram](https://www.instagram.com/v_e_e_b/)
-- #veeb on irc.libera.chat
+- [IRC](https://libera.chat/) (#veeb on irc.libera.chat)
 
 <!---
 veebch/veebch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
