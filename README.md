@@ -4,7 +4,7 @@ Notable bits of our digital footprint:
 
 - [YouTube](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 - [veeb.ch](https://veeb.ch/notes)
-- <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>'
+- <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>
 - [Instagram](https://www.instagram.com/v_e_e_b/)
 - #veeb on irc.libera.chat
 
