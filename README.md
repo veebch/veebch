@@ -1,6 +1,6 @@
-👋 Hi, @veebch here. This is the place that we share code for some of the things we've made. Questions/ suggestions/ code contributions ecouraged.
+👋 Hi, @veebch here. This is a place where we share code for some of the things that we've made. Questions/ suggestions/ code contributions ecouraged.
 
-Notable bits of our digital footprint:
+There's also stuff at/on:
 
 - [YouTube](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 - [veeb.ch](https://veeb.ch/notes)
