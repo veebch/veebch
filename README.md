@@ -6,7 +6,7 @@ Also, have a look at our
 - [Diary](https://veeb.ch/projects) - where we write overly short summaries of what we're up to,
 - <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a> - where we post the occasional update.
 
-or chat to us on
+or chat to us in real time on
 
 - [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat).
 
