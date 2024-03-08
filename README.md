@@ -1,4 +1,4 @@
-👋 This is a place where we share code for some of the things that we've made. Questions/ suggestions/ code contributions ecouraged.
+👋 This is a place where VEEB Projects share code for some of the things that we've made.
 
 There's also stuff at/on:
 
