@@ -1,10 +1,14 @@
 👋 This is a place where VEEB Projects share some of the things that we've made.
 
+You can also find us in these places:
+
 - [Videos](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 - [Website](https://veeb.ch/projects)
 - <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>
 - [Instagram](https://www.instagram.com/v_e_e_b/)
 - [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat)
+
+It would be delightful if you stopped by...
 
 <!---
 veebch/veebch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
