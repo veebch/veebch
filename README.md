@@ -1,6 +1,6 @@
 ## 👋 This is a place where VEEB Projects shares some of the things that we've made.
 
-Have a look at our
+Also, have a look at our
 
 - [Videos](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ),
 - [Diary](https://veeb.ch/projects),
