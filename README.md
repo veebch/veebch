@@ -1,12 +1,12 @@
 ## 👋 A place where VEEB Projects shares some things.
 
-Also, have a look at our
+Also, have a look at our:
 
 - [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) (views, not subscribers, that would be silly),
 - [Diary](https://veeb.ch/projects) - where we write overly-short summaries of what we're up to,
 - <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a> - where we post the occasional update.
 
-or chat to us in real time on
+or chat to us in real time on:
 
 - [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat).
 
