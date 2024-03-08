@@ -1,4 +1,4 @@
-## 👋 A place where VEEB Projects shares some of the things that we've made.
+## 👋 A place where VEEB Projects shares some things.
 
 Also, have a look at our
 
