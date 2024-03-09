@@ -2,8 +2,8 @@
 
 Also, have a look at our:
 
-- Videos on [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) (views, not subscribers, that would be silly),
-- The [Diary](https://veeb.ch/projects) where we write succinct summaries of what we're up to,
+- [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) (views, not subscribers, that would be silly),
+- [Diary](https://veeb.ch/projects) where we write succinct summaries of what we're up to,
 - Occasional updates on <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>.
 
 
