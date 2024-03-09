@@ -4,8 +4,9 @@ Also, have a look at our:
 
 - [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) (views, not subscribers, that would be silly),
 - [Diary](https://veeb.ch/projects) - where we write succinct summaries of what we're up to,
-- <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a> - where we post the occasional update.
-- 
+- <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109319818316605397?domain=https%3A%2F%2Ffosstodon.org" rel="me">
+
+ 
 or chat to us in real time on:
 
 - [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat).
