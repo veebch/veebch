@@ -4,8 +4,7 @@ Also, have a look at our:
 
 - [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) (views, not subscribers, that would be silly),
 - [Diary](https://veeb.ch/projects) - where we write succinct summaries of what we're up to,
-- <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109319818316605397?domain=https%3A%2F%2Ffosstodon.org&style=social">
-
+- <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a> - where we post the occasional update.
 
 
  
