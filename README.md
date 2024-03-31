@@ -8,9 +8,9 @@ Also, have a look at our:
 
 
  
-or chat to us in real time on:
+or chat to us in real time on
 
-- [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat).
+- [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat)
 
 Our insistence on using a chat service from the 1980s means that it gets a bit quiet. It would be everso nice if you stopped by. 
 
