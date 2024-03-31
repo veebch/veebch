@@ -2,7 +2,7 @@
 
 Also, have a look at our:
 
-- [![YouTube Channel Views]("https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?style=flat&logo=youtube&logoColor=red&labelColor=white&color=ffed53")](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ),
+- [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?style=flat&logo=youtube&logoColor=red&labelColor=white&color=ffed53)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ),
 - [diary](https://veeb.ch/projects) where we write succinct summaries of what we're up to,
 - occasional ramblings on <a rel="me" href="https://fosstodon.org/@veeb">Mastodon</a>.
 
