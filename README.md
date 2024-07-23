@@ -10,7 +10,7 @@ Also, have a look at our:
  
 or chat to us in real time on:
 
-- [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veeb) (#veeb on irc.libera.chat)
+- [IRC](https://web.libera.chat/?nick=LotOfFroth%3F#veebprojects) (#veebprojects on irc.libera.chat)
  
 
 <!---
