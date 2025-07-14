@@ -1,6 +1,6 @@
-## A place where VEEB Projects shares some things.
+## A place where VEEB Projects shares some things
 
-Also, have a look at our:
+Look at our:
 
 - [YouTube Channel](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 - [Blog](https://veeb.ch/projects) and [Website](https://veeb.ch/)
