@@ -1,6 +1,6 @@
 ## A place where VEEB shares some things
 
-More info at our:
+More info:
 
 - [Blog](https://veeb.ch/projects) 
 - [Videos](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
