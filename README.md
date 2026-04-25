@@ -3,8 +3,7 @@
 Look at our:
 
 - [YouTube Channel](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
-- [Blog](https://veeb.ch/projects) and [Website](https://veeb.ch/)
-
+- [Blog](https://veeb.ch/projects) 
 or chat to us in real time on:
 
 - [IRC](https://chat.veeb.ch) (#veebprojects on irc.libera.chat)
