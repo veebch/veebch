@@ -2,8 +2,9 @@
 
 Look at our:
 
-- [YouTube Channel](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 - [Blog](https://veeb.ch/projects) 
+- [Videos](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
+
 
 or chat to us in real time on:
 
